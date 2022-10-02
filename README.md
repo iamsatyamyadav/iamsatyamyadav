@@ -1,20 +1,13 @@
 
 
-
-
-
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Satyam+Yadav!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-
 <!-- 
 <h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>,  I'm Satyam</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3> -->
-
-
 
 
 ## 🙋‍♂️ About Me
@@ -24,11 +17,6 @@
 - 👯 I’m looking to collaborate on some projects.
 - 📫 How to reach me: **iamsatyam2002@gmail.com**
 - ⚡ Fun fact: **HTML is Not a Programming Language?**
-
-
-
-
-
 
 
 ## 🚀 Languages and Tools:
