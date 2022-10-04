@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Satyam+Yadav!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- 
+
 <h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>,  I'm Satyam</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3> -->
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 
 ## 🙋‍♂️ About Me
