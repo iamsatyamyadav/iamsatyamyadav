@@ -15,9 +15,9 @@
 - 🌱 I’m currently learning **JAVA.**
 - 👯 I’m looking to collaborate on some projects.
 - 📫 How to reach me: **iamsatyam2002@gmail.com**
-- ⚡ Fun fact: **HTML is Not a Programming Language?**
 - 🔭 Checkout my portfolio:  **[Portfolio](https://iamsatyamyadav.github.io/)**
 - 💼 See my resume:  **[Resume](https://drive.google.com/file/d/1Fm-mH8YLJXo3TQxDVjvkBnp3RuZcSlgJ/view)**  
+-⚡ Fun fact: **HTML is Not a Programming Language?**
 
 
 ## 🚀 Languages and Tools:
