@@ -7,8 +7,6 @@
 
 
 
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a student in **[Masai School.](https://www.masaischool.com/)** 
